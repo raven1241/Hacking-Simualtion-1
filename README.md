@@ -32,4 +32,4 @@ We welcome contributions to make the simulation even more enjoyable for users, e
 
 ## Contact
 
-If you have any ideas, suggestions, or encounter any issues, please open a bug report in the [issue tracker](https://github.com/raven1241/Hacking-Simulation-1/issues). We'd love to hear from you and make this simulation even more exciting!
+If you have any ideas, suggestions, or encounter any issues, please open a bug report in the [issue tracker](https://github.com/raven1241/Hacking-Simualtion-1/issues). We'd love to hear from you and make this simulation even more exciting!
