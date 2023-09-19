@@ -28,7 +28,7 @@ We welcome contributions to make the simulation even more enjoyable for users, e
 
 ## License
 
-This project is released under the [Unlicense](UNLICENSE), which effectively releases the software into the public domain. You are free to use, modify, and distribute it without any restrictions. See the [UNLICENSE](UNLICENSE) file for more details.
+[This project is released under the [Unlicense](UNLICENSE), which effectively releases the software into the public domain. You are free to use, modify, and distribute it without any restrictions. See the [UNLICENSE](UNLICENSE) file for more details.](https://github.com/raven1241/Hacking-Simualtion-1/blob/main/LICENSE)
 
 ## Contact
 
